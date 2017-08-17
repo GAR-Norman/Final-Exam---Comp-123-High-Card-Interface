@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 
 /*
- * Name: Tom Tsiliopoulos
- * Date: July 27, 2017
- * Description: This is the Hand class
- * It inherits from the CardList Abstract class
- * Version: 0.1 - Created the Hand class
- */
+ * Name: Gabriel Norman 
+ * Student #: 300897331
+ * Date: August 17, 2017 
+ * Description: This is the hand class
+ * Version: 0.1 - Initial Commit
+*/
 
 namespace Final_Exam___Comp_123_High_Card_Interface
 {

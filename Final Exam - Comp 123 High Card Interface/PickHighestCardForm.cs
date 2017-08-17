@@ -11,12 +11,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
- * Description:
- * Version:
- */
+ * Name: Gabriel Norman 
+ * Student #: 300897331
+ * Date: August 17, 2017 
+ * Description: This is the PickHighestCardForm class
+ * Version: 0.1 - Initial Commit
+*/
 
 namespace Final_Exam___Comp_123_High_Card_Interface
 {

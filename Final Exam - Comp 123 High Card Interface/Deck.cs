@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 
 /*
- * Name: Tom Tsiliopoulos
- * Date: July 25, 2017
+ * Name: Gabriel Norman 
+ * Student #: 300897331
+ * Date: August 17, 2017 
  * Description: This is the Deck class
- * It inherits from the CardList Abstract class
- * Version: 0.7 - Added the Deal5 method
- */
+ * Version: 0.1 - Initial Commit
+*/
 
 namespace Final_Exam___Comp_123_High_Card_Interface
 {

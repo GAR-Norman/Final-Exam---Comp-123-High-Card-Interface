@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
- * Description:
- * Version:
- */
+ * Name: Gabriel Norman 
+ * Student #: 300897331
+ * Date: August 17, 2017 
+ * Description: This is the driver class
+ * Version: 0.1 - Initial Commit - Finished Splashform
+*/
 
 namespace Final_Exam___Comp_123_High_Card_Interface
 {
@@ -19,12 +19,19 @@ namespace Final_Exam___Comp_123_High_Card_Interface
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
+
+        public static PickHighestCardForm newHighCardForm;
+
+    [STAThread]
         public static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PickHighestCardForm());
+
+            newHighCardForm = new PickHighestCardForm();
+
+            Application.Run(new SplashForm());
+            Application.Run(newHighCardForm);
         }
     }
 }

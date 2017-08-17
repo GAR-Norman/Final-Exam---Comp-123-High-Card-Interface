@@ -2,22 +2,19 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
+
 
 /*
  * Name: Gabriel Norman 
  * Student #: 300897331
  * Date: August 17, 2017 
- * Description: This is the Suit enum
- * Version: 0.1 - Created the Suit enum
- */
-
+ * Description: This is the scoreboard class class
+ * Version: 0.1 - Finished Splashform
+*/
 namespace Final_Exam___Comp_123_High_Card_Interface
 {
-    public enum Suit
+    class ScoreBoard
     {
-        Clubs,
-        Diamonds,
-        Hearts,
-        Spades
     }
 }
